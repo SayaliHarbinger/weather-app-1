@@ -1,6 +1,11 @@
-# WeatherApp
-
+## Weather App
+The Weather App is a simple application that displays weather information for a given city. It retrieves weather data from an external API and presents it in a user-friendly interface.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+## Features
+Get real-time weather data for a specific city.
+Display the temperature, location, and additional weather information.
+Customizable CSS styles for visual appeal.
+Supports searching for weather data for different cities.
 
 ## Development server
 
